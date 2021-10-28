@@ -9,11 +9,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  navbarList = [ 
-    {id:1, index: 'home'},
-    {id:2, index:'contact'},
-    {id:3, index:'chuck' }
-  ]
   constructor() { }
 
   ngOnInit(): void {
