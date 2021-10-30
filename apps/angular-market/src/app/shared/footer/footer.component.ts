@@ -2,7 +2,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'ng-shop-footer',
+  selector: 'ngshop-footer',
   templateUrl: './footer.component.html',
   styleUrls: ['./footer.component.scss']
 })
