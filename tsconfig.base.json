@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@ng-shop/products": ["libs/products/src/index.ts"],
       "@ng-shop/ui": ["libs/ui/src/index.ts"]
     }
   },
