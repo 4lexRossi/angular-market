@@ -1,4 +1,4 @@
-# Bluebits
+# Angular Market
 
 This project was generated using [Nx](https://nx.dev).
 
